@@ -366,41 +366,41 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 
-## Output screen shots of proteus  :
- ![7 opt1](https://github.com/25tharunkumar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/123470785/ac7a5705-c3e0-44e4-91d6-8d2c3c007b30)
-![7 opt 2](https://github.com/25tharunkumar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/123470785/fa2954cb-8d8e-4e03-8710-cadb36cfe57b)
-
-
-![7 opt 4](https://github.com/25tharunkumar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/123470785/11f914f6-7919-4612-8c33-cc41f952cf36)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![7 oppt](https://github.com/25tharunkumar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/123470785/3986b110-fa35-4455-abc4-162f8ae16955)
+![image](https://github.com/25tharunkumar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/123470785/ef5cda96-db19-4a72-aca7-eb3bb81842de)
 
 
+## Output screen shots of proteus  :
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
+![image](https://github.com/25tharunkumar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/123470785/aeb3b23e-d35f-4717-9df6-73974e275e08)
 
-TON = 
-TOFF=
-TOTAL TIME = 
+TON = 8
+TOFF= 8
+TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
+FREQUENCY = 62.5Hz
 
-FOR PULSE AT 700
+FOR PULSE AT 800
+![image](https://github.com/25tharunkumar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/123470785/2228bcce-b146-4858-af5c-91de228a8ae3)
 
-TON = 
-TOFF=
-TOTAL TIME = 
+TON = 13
+TOFF= 3
+TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
+FREQUENCY = 62.5Hz
 
 
 FOR PULSE AT 900
+![image](https://github.com/25tharunkumar/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/123470785/60807296-d960-4069-a5e6-0e585cc36ca0)
 
-TON = 
-TOFF=
-TOTAL TIME = 
+TON = 14
+TOFF= 2
+TOTAL TIME = 16
 FREQUENCY = 1/(TOTAL TIME)
-
+FREQUENCY = 62.5Hz
 
 ## Result :
 A PWM Signal is generated using the following frequency and various duty cycles are simulated 
